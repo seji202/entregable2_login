@@ -1,5 +1,5 @@
 # entregable2_login
-INFORME DE ACCESO DE USUARIOS
+# INFORME DE ACCESO DE USUARIOS
 Objetivo del Proyecto
 Desarrollar un sistema de acceso seguro con funcionalidades básicas de registro, inicio de sesión y conexión a una base de datos utilizando PHP y PDO.
 Archivos del Proyecto
